@@ -298,14 +298,4 @@
 
  
 
-<br>
-
----
-
-
-<p align="center"> 
-  Visitor Counter
-  <br>
-  <br>
-  <img src="https://spotless-sunbonnet-cow.cyclic.app/count" />
-</p>
+ 
