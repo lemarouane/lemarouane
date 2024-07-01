@@ -281,20 +281,6 @@
 <br>
 
 <br>
-<table align="center">
-  <tr>
-   <td colspan="3" align="center"> 
-        ✨ Follow me
-   </td>
-  </tr>
-  <tr>
-    <td align="center" width="288" height="64">
-        <a href="https://www.youtube.com/channel/UCrxPFOySNprkwMxjyG8IQXA/about">
-			<img src="./photos/banner/Youtube.png" width="274" height="64" alt="Youtube" />
-		</a>
-	
-  </tr>
-</table>
 
  
 
