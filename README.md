@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marouane Haddad</h1>
 <h3 align="center">A passionate FullStack and Artificial Inteligence Engineer from Morocco</h3>
 
----
+--- 
  
 <br>
 
