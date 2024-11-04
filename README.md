@@ -2,7 +2,22 @@
 <h3 align="center">A passionate FullStack and Artificial Inteligence Engineer from Morocco</h3>
 
 --- 
- 
+
+
+[![Your GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lemarouane&theme=merko)](https://github.com/lemarouane)
+
+<div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/lemarouane?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&dark=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/lemarouane?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native">
+      <img alt="" src="https://ssr-contributions-svg.vercel.app/_/lemarouane?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native" >
+    </picture>
+</div>
+
+
+
+
+
 <br>
 
 <table align="center">
