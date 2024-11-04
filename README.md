@@ -2,8 +2,7 @@
 <h3 align="center">A passionate FullStack and Artificial Inteligence Engineer from Morocco</h3>
 
 --- 
-              - name: GitHub-Profile-3D-Contrib
-                uses: yoshi389111/github-profile-3d-contrib@0.7.1
+
             
 
 
