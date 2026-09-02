@@ -137,21 +137,7 @@ My main interests are <strong>software engineering, data management, artificial 
 
 ---
 
-<h2>🤝 Connect With Me</h2>
 
-<p align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</p>
-
----
 
 <p align="center">
   <i>Building things, breaking things, fixing things, and occasionally wondering why the code worked yesterday. 🤝</i>
