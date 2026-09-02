@@ -1,175 +1,138 @@
-<!--horizontal divider-->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h1 without bottom border-->
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Marouane</h1></summary>
-  </ul>
-</div>
-
-<!-- snake -->
-
+  <h1 align="center">Hello Guys! We Are OSSInsight! 👁️</h1>
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake">
-</div>
+<a href="https://ossinsight.io">
+  <img src="/web/static/img/screenshots/homepage.gif" height="360" &#x3c;="" a="">
+</a></div><a href="https://ossinsight.io">
+</a><h4 align="center"><a href="https://ossinsight.io">
+  <b></b></a><b><a href="https://ossinsight.io/explore/">Data Explorer</a></b>
+  •
+  <b><a href="https://ossinsight.io/collections/open-source-database">Repo Rankings</a></b>
+  •
+  <b><a href="https://ossinsight.io/analyze/Ovilia">Developer Analytics</a></b>
+  •
+  <a href="https://ossinsight.io/analyze/pingcap/tidb">Repo Analytics</a>
+  •
+  <a href="https://ossinsight.io/collections/open-source-database">Collections</a>
+  •
+  <a href="https://ossinsight.io/docs/workshop">Workshop</a>
+  •
+  <a href="https://ossinsight.io/blog">Blog</a>
+  •
+  <a href="https://ossinsight.io/docs">API</a>
+  •
+  <a href="https://twitter.com/OSSInsight">Twitter</a>
+</h4>
+<h2 id="introduction">Introduction</h2>
+<p>OSS Insight is a powerful tool that provides comprehensive, valuable, and trending insights into the open source world by analyzing 6+ billion rows of GitHub events data.</p>
+<p><a href="https://www.youtube.com/watch?v=6ofDBgXh4So&amp;t=1s">🎦 Video - OSS Insight: Easiest New Way to Analyze Open Source Software</a></p>
+<h2 id="embed-real-time-widget-in-repos--personal-readmemd-within-30s">Embed Real-time Widget in Repo’s / Personal README.md within 30s!</h2>
+<p>For all charming widgets, please <a href="https://next.ossinsight.io/widgets?utm_source=github&amp;utm_medium=referral">Check it out 👉</a>, here are some examples:</p>
 
-<!--h2 without bottom border-->
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Software Engineer • Data • AI • Information Systems 🚀</h2></summary>
-  </ul>
-</div>
 
-<!--Intro start-->
 
-<ul>
-<li>
-<p>🔭 I’m currently working on <strong>Software Engineering, Data Management, AI/ML, and Information Systems</strong></p>
-</li>
 
-<li>
-<p>🌱 I’m currently learning and building with <strong>Python, Java, Spring Boot, React, Node.js, FastAPI, Docker, and AWS</strong></p>
-</li>
 
-<li>
-<p>🤖 I’m passionate about <strong>Artificial Intelligence, Machine Learning, Big Data, Business Intelligence, and Data Engineering</strong></p>
-</li>
 
-<li>
-<p>💻 I build <strong>web applications, APIs, data-driven systems, and automation solutions</strong></p>
-</li>
 
-<li>
-<p>☁️ I’m interested in <strong>Cloud Computing, scalable architectures, and modern distributed systems</strong></p>
-</li>
 
-<li>
-<p>📊 I work with <strong>SQL, MySQL, PostgreSQL, Firebase, Power BI, Pandas, NumPy, and Scikit-learn</strong></p>
-</li>
 
-<li>
-<p>💬 Ask me about <strong>Python, Java, Spring Boot, React, Node.js, SQL, Data, AI/ML, and Information Systems</strong></p>
-</li>
 
-<li>
-<p>📫 Feel free to reach me out through <strong>LinkedIn or GitHub</strong></p>
-</li>
-</ul>
-<!--Intro end-->
 
-<!--- stats & Trophy (start) -->
 
-<p align="center">
-</p>
+<table><thead><tr><th>Repository Activity Trends</th><th>Collaborative Productivity - Last 28 days</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td></tr></tbody></table>
 
-<table align="center">
-<tbody>
-<tr border="none">
 
-<td width="50%" align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=dark&show_icons=true&count_private=true">
 
-<br><br>
 
-<img title="🔥 Get streak stats for your profile" alt="Marouane's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false">
 
-</td>
 
-<td width="50%" align="center">
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10">
 
-</td>
 
-</tr>
-</tbody>
-</table>
 
-<!--- stats (end) -->
 
-<!--- trophy (start) -->
 
-<div align="center">
+<table><thead><tr><th>Repository Performance Stats - Last 28 days</th><th>Active Contributors - Last 28 days</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&amp;limit=100&amp;image_size=auto"></td></tr></tbody></table>
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY">
-  </a>
 
-</div>
 
-<!--- trophy (end) -->
 
-<p></p>
 
-<!-- Technologies -->
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies & Tools 👨🏻‍💻</h2></summary>
-  </ul>
-</div>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css,php,spring,react,nodejs,fastapi,flutter,docker,aws,firebase,mysql,postgres,git,github,linux,vscode,idea,postman&perline=12">
-  </a>
-</p>
 
-<!-- Data & AI -->
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Data & AI 📊🤖</h2></summary>
-  </ul>
-</div>
 
-<p align="center">
-  <strong>
-    Python • Pandas • NumPy • Scikit-learn • Machine Learning • Big Data •
-    Data Engineering • Business Intelligence • Power BI • SQL
-  </strong>
-</p>
 
-<!-- Connect with me -->
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
-  </ul>
-</div>
 
-<p align="center">
+<table><thead><tr><th>Star Geographic Distribution</th><th>Star History</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&amp;repo_id=41986369&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td></tr></tbody></table>
 
-<a href="https://www.linkedin.com/" target="_blank">
-  <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50">
-</a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="50" width="50">
-</a>
 
-</p>
 
-<!--profile visit count-->
 
-<div align="center">
-  <p>
-    <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=YOUR_GITHUB_USERNAME&icon=3&color=6" alt="Profile views">
-    </a>
-  </p>
-</div>
 
-<!--horizontal divider-->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<hr>
 
-<p>Built with ❤️ by <strong>Marouane</strong></p>
-<p>Last Edited on: 02/09/2026</p>
+
+
+
+
+<table><thead><tr><th>Company Affiliation</th><th>Lines of Code Changes</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-company/thumbnail.png?activity=stars&amp;repo_id=41986369&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Pull Request Size</th><th>Pull Request Lifecycle</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Currently Working On - Last 28 days</th><th>Top Active Contributors - Last 28 Days</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&amp;user_id=12960671&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Repository Annual Ranking</th><th>Find More</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&amp;collection_id=2&amp;image_size=auto"></td><td><a href="https://next.ossinsight.io/widgets?utm_source=github&amp;utm_medium=referral">Visit our website</a></td></tr></tbody></table>
+<h2 id="contact-us">Contact us</h2>
+<a href="https://twitter.com/OSSInsight" target="_blank">
+<img src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="twitter" style="margin-bottom: 5px;">
+</a><a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
+<img src="https://img.shields.io/badge/github-%2300acee.svg?color=181717&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="github" style="margin-bottom: 5px;">
+</a><a href="mailto:ossinsight@pingcap.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="gmail" style="margin-bottom: 5px;">
+<h2 id="sponsors">Sponsors</h2>
+</a><a href="https://en.pingcap.com/tidb-cloud/?utm_source=ossinsight&amp;utm_medium=referral">
+<img src="/web/static/img/tidb-cloud-logo-w.png" height="50">
+</a> 
